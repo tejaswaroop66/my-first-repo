@@ -1,0 +1,3 @@
+this is the main notes version
+of merge conflict
+
